@@ -1,3 +1,3 @@
 # Summary
 
-- [Visit me!](./../README.md)
+- [Visit me!](./README.md)
