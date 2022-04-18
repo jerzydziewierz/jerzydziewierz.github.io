@@ -1,3 +1,2 @@
 # Summary
-
-- [Visit me!](./README.md)
+Nothing here.
