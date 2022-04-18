@@ -1,0 +1,6 @@
+[book]
+authors = ["George Rey"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Weekend in Chantilly"
