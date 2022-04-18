@@ -40,6 +40,8 @@ Path:
 
 ### Go to the restaurant via the library square
 
+![image-20220418123757289](README.assets/image-20220418123757289.png)
+
 [google maps](https://www.google.com/maps/dir/Princes'+Vegetable+Garden,+17+Rue+de+la+Faisanderie,+60500+Chantilly/49.1902069,2.4630301/@49.1923781,2.463508,16.29z/data=!4m14!4m13!1m10!1m1!1s0x47e648183b8817ed:0x11daa56d0fc3a2ac!2m2!1d2.4760555!2d49.1956623!3m4!1m2!1d2.4672735!2d49.1933137!3s0x47e6481442644565:0x6f1a9da13c0eb9e1!1m0!3e2)
 
 Menu: https://hotel-parc-chantilly.com/wp-content/uploads/2021/12/Menu-A4-dec-15.pdf 
