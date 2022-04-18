@@ -12,13 +12,13 @@ Destination: `Chantilly Gouvieux`
 
 Departure:  `Gare du Nord (Paris)` or a station of your choice
 
-
+ 
 
 Map:
 
 https://www.google.com/maps/place/Gare+de+Chantilly+Gouvieux/
 
-![image-20220418121038989](img/image-20220418121038989.png)
+![image-20220418121038989](README.assets/image-20220418121038989.png)
 
 ## Meet me at the station
 
@@ -38,7 +38,7 @@ Path:
 
 [google maps](https://www.google.com/maps/dir/Gare+de+Chantilly+Gouvieux,+Chantilly/Princes'+Vegetable+Garden,+17+Rue+de+la+Faisanderie,+60500+Chantilly/@49.1914707,2.4634911,16z/data=!4m19!4m18!1m10!1m1!1s0x47e6486d98a16097:0x9768704619842cbd!2m2!1d2.459592!2d49.187611!3m4!1m2!1d2.4627525!2d49.1877121!3s0x47e6486d5afa4bad:0x4c8b181246817a12!1m5!1m1!1s0x47e648183b8817ed:0x11daa56d0fc3a2ac!2m2!1d2.4760555!2d49.1956623!3e2)
 
-![image-20220418121440896](/home/mib07150/git/private/jerzydziewierz.github.io/img/image-20220418121440896.png)
+![image-20220418121440896](README.assets/image-20220418121440896.png)
 
 
 
